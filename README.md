@@ -4,7 +4,7 @@
 <h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Asteroids-Game/assets/91081774/5e0828f2-a99c-4987-835b-2a6d9602a274" alt="Logo" width="750" /></h1>
 
 <h2> About🚀</h2>
-Asteroids is a renowned arcade game that was designed by Lyle Rains, Ed Logg, and Dominic Walsh. First released in 1979 by Atari Inc., this space-themed shooter game quickly gained popularity and became a classic in the world of video gaming.
+The Asteroids game is a classic arcade gamec. It quickly became popular due to its simple yet addictive gameplay. In this game, players control a spaceship and navigate through an asteroid field, shooting down asteroids and avoiding collisions. The objective is to score as many points as possible by destroying asteroids and surviving for as long as possible. Let's explore the key features and mechanics of the Asteroids game.
 
 <h2> Gameplay 🚀🌑</h2>
 Asteroids offers a simple yet addictive gameplay experience. Players control a small triangular-shaped spaceship within the confines of a two-dimensional space. The objective is to navigate through a field of asteroids and destroy them while avoiding collisions.
