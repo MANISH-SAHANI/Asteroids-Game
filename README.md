@@ -3,7 +3,6 @@
 <h1 align="center" >Asteroids: A Classic Arcade Game 🚀🌑</h1>
 
 <h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Asteroids-Game/assets/91081774/8b0e6678-7762-44bf-9428-23307f9065e1" alt="Logo" width="750" /></h1>
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Asteroids-Game/assets/91081774/5e0828f2-a99c-4987-835b-2a6d9602a274" alt="Logo" width="750" /></h1>
 
 <h2> About🚀</h2>
 Asteroids is a renowned arcade game that was designed by Lyle Rains, Ed Logg, and Dominic Walsh. First released in 1979 by Atari Inc., this space-themed shooter game quickly gained popularity and became a classic in the world of video gaming.
