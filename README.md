@@ -9,6 +9,11 @@ The Asteroids game is a classic arcade gamec. It quickly became popular due to i
 <h2> Gameplay 🚀🌑</h2>
 Asteroids offers a simple yet addictive gameplay experience. Players control a small triangular-shaped spaceship within the confines of a two-dimensional space. The objective is to navigate through a field of asteroids and destroy them while avoiding collisions.
 
+
+As the game progresses, the number of asteroids increases, making it more challenging for players to survive. The spaceship is equipped with a limited supply of bullets to shoot the asteroids, which split into smaller pieces when hit. Players must strategically maneuver their spaceship while evading the fragments and newly spawned asteroids.
+
+
+
 ![2](https://github.com/MANISH-SAHANI/Asteroids-Game/assets/91081774/7a939a88-dd2d-489d-a17c-f65b4f7cd4b8)
 
 
